@@ -1,6 +1,6 @@
-# Atllas Software Engineering Take-Home Exercise
+# Local Software Engineering Take-Home Exercise
 
-🌟 Welcome to the Atllas take-home coding exercise! 🌟
+🌟 Welcome to the Local take-home coding exercise! 🌟
 
 This full-stack exercise involves building a form component in React that also makes a request to the Node.js/Express.js backend. We imagine you should spend around _four hours at minimum_ to implement this feature, but want to emphasize that there is no specific deadline, or ticking clock for the implementation time. You can feel free to break the work up over multiple days. The entire point of this exercise is to get a good sense of how you build software.
 
@@ -61,6 +61,6 @@ Given the time expectations of this exercise, we don't expect anyone to submit a
 
 When you have finished the assignment, create a bundle of your work by running `npm run bundle` in the repo root.
 
-This generates a bundle file called `atllas-take-home-exercise` based on your local master branch. Return that file to us via e-mail, and we'll review your code within 1-2 days.
+This generates a bundle file called `Local-take-home-exercise` based on your local master branch. Return that file to us via e-mail, and we'll review your code within 1-2 days.
 
 Thank you and good luck! 🙏
