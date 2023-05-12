@@ -10,4 +10,4 @@ if (!commits) {
 
 let result = sh('git bundle create local-take-home.bundle HEAD master');
 console.log('Nice work, you created local-take-home.bundle.');
-console.log('Please email it to taha@beloc.al')
+console.log('Please email the bundle and source code to taha@beloc.al');
